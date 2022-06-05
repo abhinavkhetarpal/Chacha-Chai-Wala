@@ -1485,7 +1485,7 @@ input, select, textarea {
 
 	.image {
 		-moz-transition: opacity 0.25s ease-in-out;
-		-webkit-transition: opacity 0.25s ease-in-out;
+		/* -webkit-transition: opacity 0.25s ease-in-out; */
 		-ms-transition: opacity 0.25s ease-in-out;
 		transition: opacity 0.25s ease-in-out;
 		display: inline-block;
